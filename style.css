@@ -1,0 +1,26 @@
+body{
+    font-family: 'Noto Serif', serif;
+}
+.img{
+    height: 80px;
+    width: 130px;
+}
+.coloured-section{
+    background-color: black;
+}
+.bg{
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100%;
+} 
+footer{
+    background-size: 100%;
+    font-weight: bold;
+}
+.debit{
+    padding-left: 6px;
+}
+.h6{
+    padding: 22%;
+    padding-left: 8%;
+}
